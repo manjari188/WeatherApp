@@ -2,6 +2,8 @@
 
 This is a weather application created using Vite and TypeScript React. It allows you to search for a location and view its weather details on the dashboard.
 
+<img width="1433" alt="Screenshot 2023-12-21 at 5 50 58 PM" src="https://github.com/manjari188/WeatherApp/assets/19758555/b11ffbd2-14d0-4a14-8b13-aeae151b0de6">
+
 ## Features
 
 - Search for a location
